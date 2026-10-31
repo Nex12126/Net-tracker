@@ -15,6 +15,7 @@ Net-Tracker is a portable Windows packet viewer. It starts capturing metadata fr
 - PCAP and PCAPNG file viewer
 
 Live capture on Windows requires Npcap. The application does not install drivers or request elevation; capture permissions depend on the Npcap installation and current Windows account.
+<img width="2552" height="1388" alt="grafik" src="https://github.com/user-attachments/assets/09b3b29c-2202-4a73-a43b-0eceb17253bd" />
 
 Use **Save capture** during a live session to choose a PCAPNG destination. Select **Stop saving** to close the file cleanly. Saved captures may contain sensitive packet payloads.
 
