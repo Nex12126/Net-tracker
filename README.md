@@ -39,7 +39,7 @@ Set-ExecutionPolicy -Scope Process Bypass
 
 The single-file executable is created at `dist\Net-Tracker.exe`. Build the executable on Windows.
 
-Credits: Nex12126
+
 
 ## License
 
